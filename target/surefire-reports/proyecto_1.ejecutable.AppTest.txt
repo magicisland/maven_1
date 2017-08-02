@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: proyecto_1.ejecutable.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.039 sec - in proyecto_1.ejecutable.AppTest
